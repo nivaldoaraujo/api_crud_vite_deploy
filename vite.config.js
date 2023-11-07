@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  bae: "/api_crud_vite_deploy",
+  bae: "./api_crud_vite_deploy",
 })
